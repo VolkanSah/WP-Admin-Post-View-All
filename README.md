@@ -28,7 +28,7 @@ I've tested it with up to 500 posts and it works fine, but it takes a while to l
 ## Tested Configuration
 
 - **Server**: 8 CPU, 30 GB RAM
-- **Performance**: Can handle displaying and deleting 200 posts in a few seconds.
+- **Performance**: Can handle displaying and deleting 200-2000 posts in a few seconds.
 
 ## Disclaimer
 
