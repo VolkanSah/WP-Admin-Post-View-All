@@ -1,6 +1,6 @@
 # WP-Admin-Post-View-All
 
-Helpful tool for your WordPress website. 
+Helpful mini tools for your WordPress website. 
 
 ## Description
 
