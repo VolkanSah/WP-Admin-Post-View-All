@@ -3,7 +3,7 @@
  * Plugin Name: Admin Post View All
  * Description: Erhöht die Anzahl der angezeigten Beiträge auf der Admin-Seite.
  * Version: 1.0
- * Author: Dein Name
+ * Author: Volkan Sah
  */
 
 function apva_set_posts_per_page($query) {
